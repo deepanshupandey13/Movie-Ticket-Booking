@@ -42,13 +42,13 @@ const Footer = () => {
             <h2 className="font-semibold mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
               <p>+250-784-652-570</p>
-              <p>elyseniyibizi@gmail.com</p>
+              <p>deepanshu@gmail.com</p>
             </div>
           </div>
         </div>
       </div>
       <p className="pt-4 text-center text-sm pb-5">
-        Copyright {new Date().getFullYear()} © ElyséeDev. All Right Reserved.
+        Copyright {new Date().getFullYear()} © Deepanshu Pandey. All Right Reserved.
       </p>
     </footer>
   );
